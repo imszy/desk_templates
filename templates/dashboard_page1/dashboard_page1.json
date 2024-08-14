@@ -1,0 +1,19 @@
+{
+ "content": null,
+ "creation": "2024-08-14 17:03:05.603544",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2024-08-14 17:03:05.603544",
+ "modified_by": "Administrator",
+ "module": "Desk",
+ "name": "dashboard_page1",
+ "owner": "Administrator",
+ "page_name": "dashboard_page1",
+ "roles": [],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Dashboard Page1"
+}
